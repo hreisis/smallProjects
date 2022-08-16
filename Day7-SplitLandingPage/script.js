@@ -7,3 +7,5 @@ left.addEventListener('mouseleave', () => container.classList.remove('hover-left
 
 right.addEventListener('mouseenter', () => container.classList.add('hover-right'));
 right.addEventListener('mouseleave', () => container.classList.remove('hover-right'));
+
+//additional solution without js/ using flex-grew in CSS: https://codepen.io/hreisis/pen/XWEyxpY
